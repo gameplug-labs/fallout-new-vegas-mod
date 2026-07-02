@@ -2,6 +2,8 @@
 
 ![Fallout: New Vegas Mod Preview](fallout-new-vegas.png)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rohitdev)
+
 Adds AMD FSR1 & FSR2 upscaling support to **Fallout: New Vegas Ultimate Edition** using the GamePlug D3D9 layer. Improves image clarity and performance scaling while preserving the original game experience.
 
 Enhance Fallout: New Vegas Ultimate Edition with modern AMD FSR1 & FSR2 upscaling support through the GamePlug D3D9 layer. This mod injects an FSR1/2-based upscaler into the game, allowing improved image reconstruction and better performance scaling at lower rendering resolutions while maintaining visual quality.
